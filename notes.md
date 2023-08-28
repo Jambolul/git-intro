@@ -14,3 +14,11 @@
 79 git push -u origin main
 80 touch notes.md
 81 history
+82 cat notes.md
+83 nano notes.md
+84 code .
+85 git add .
+86 git commit -m "updated notes.md with kontsa in it"
+87 git status
+88 git push
+89 history
